@@ -14,8 +14,12 @@ Advantage of Programme
 
 Hence the problems faced manually are easily coped up with the help of computer system.
  
+DRAWBACKS
 
-Menu Map
- 
+1.	Software is not password protected.
+2.	Software do not provide printing facility.
+3.	Software do not provide any warning of chemical or medicine that are about to expire.
+4.	Software do not place order of chemical that are below limit.
+5.	There is limited storage of data.
 
 
