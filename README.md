@@ -1,4 +1,4 @@
-# Database-Inventory-System
+# Database-Inventory-System(Using C++)
 Problem Definition
 	In a factory , all the records are to be made daily which include a variety of task from keeping the Stock of Product , Total Amount received , Buying of Product , Expiry of Product etc. Such task when handled  manually  need a lot of Hard work and there is a large scope of Error. Moreover the records are not easy to maintain.
 	For example, in our situation , we are required to maintain the entire record of the Chemicals and Medicines, the record include information like Date of Purchase, Date of Expiry, Cost, supplier details,  Chemical composition in Medicine etc. If we are required to enter all the details manually, then it would be a very difficult task, and the chances of error would be quite high.
