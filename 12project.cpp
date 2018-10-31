@@ -85,7 +85,7 @@ else
 cout<<"You entered wrong no./Enter Again/Press Enter to continue";
 }while(f==0);
 f=0;
-for(i=1;i<=r;i++)
+for(i=1;i<=r;i+=1)
 {
   oo.read((char*)&ob1,sizeof(ob1));
   if(strcmp(ob1.medicinename,mn[c-1])==0)
@@ -146,7 +146,7 @@ do
 {
 f=0;
 cout<<"\n\t Select Medicine No.  :";
-for(i=0;i<5;i++)
+for(i=0;i<5;i+=1)
 cout<<"\n"<<i+1<<"\t"<<mn[i];
 cout<<"\n\tSelect no. of selected medicine :-";
 cin>>c;
@@ -207,7 +207,7 @@ do
 {
 f=0;
 cout<<"\n\t Select Medicine No.  :";
-for(i=0;i<5;i++)
+for(i=0;i<5;i+=1)
 cout<<"\n"<<i+1<<"\t"<<mn[i];
 cout<<"\n\tSelect no. of selected medicine :-";
 cin>>c;
@@ -217,7 +217,7 @@ else
 cout<<"You entered wrong no./Enter Again/Press Enter to continue";
 }while(f==0);
 f=0;
-for(ii=1;ii<=r;ii++)
+for(ii=1;ii<=r;i++)
 {
   oo.read((char*)&ob1,sizeof(ob1));
   if(strcmp(ob1.medicinename,mn[c-1])==0)
@@ -356,7 +356,7 @@ do
 {
 f=0;
 cout<<"\n\t Select Medicine No.  :";
-for(i=0;i<5;i++)
+for(i=0;i<5;i+=1)
 cout<<"\n"<<i+1<<"\t"<<mn[i];
 cout<<"\n\tSelect no. of selected medicine :-";
 cin>>c;
